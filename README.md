@@ -6,11 +6,12 @@
 
 ### About Me
 
-- Security Analyst — SOC L1 & L2 Certified
-- Low-Level Developer — Rust, C/C++, Lua/LuaU
-- CTF Player — TryHackMe
-- Interests — Reverse Engineering, Binary Exploitation, Malware Analysis
-
+<p align="center">
+  • Security Analyst — SOC L1 & L2 Certified<br>
+  • Low-Level Developer — Rust, C/C++, Lua/LuaU<br>
+  • CTF Player — TryHackMe<br>
+  • Interests — Reverse Engineering, Binary Exploitation, Malware Analysis
+</p>
 ---
 
 ### Tech Stack

@@ -48,14 +48,6 @@
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DedZorgana&theme=dark&background=0A0A0A&ring=00FF00&fire=00FF00" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedZorgana&layout=compact&theme=dark&bg_color=0A0A0A&title_color=00FF00" />
-
----
-
-### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=DedZorgana&theme=darkhub&no-frame=true&row=2&column=4" />
-
 ---
 
 ### Code
@@ -73,6 +65,7 @@ end
 ```
 ### Contact
 <a href="https://discord.com/users/neverenoughyourlove"> <img src="https://img.shields.io/badge/Discord-neverenoughyourlove-5865F2?style=for-the-badge&logo=discord" /> </a>
-Profile Views
+### Profile Views
+---
 <img src="https://komarev.com/ghpvc/?username=DedZorgana&color=00FF00&style=flat-square" />
 <p align="center"> find / -name "flag" 2>/dev/null </p>

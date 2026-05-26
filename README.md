@@ -46,7 +46,6 @@
 
 ### GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DedZorgana&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=00FF00&icon_color=00FF00" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DedZorgana&theme=dark&background=0A0A0A&ring=00FF00&fire=00FF00" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedZorgana&layout=compact&theme=dark&bg_color=0A0A0A&title_color=00FF00" />

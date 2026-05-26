@@ -12,6 +12,7 @@
   • CTF Player — TryHackMe<br>
   • Interests — Reverse Engineering, Binary Exploitation, Malware Analysis
 </p>
+
 ---
 
 ### Tech Stack

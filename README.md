@@ -46,8 +46,9 @@
 
 ### GitHub Stats
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DedZorgana&theme=dark&background=0A0A0A&ring=00FF00&fire=00FF00" />
-
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DedZorgana&theme=dark&background=0A0A0A&ring=00FF00&fire=00FF00" />
+</p>
 ---
 
 ### Code

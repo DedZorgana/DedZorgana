@@ -17,7 +17,7 @@
 
 ### Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://i.pinimg.com/736x/bc/08/69/bc0869dd9fffa8e82e5dfd1800a25956.jpg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
@@ -30,7 +30,7 @@
 
 ### Certifications
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/SOC%20L1-00FF00?style=for-the-badge&logo=tryhackme&logoColor=black" />
   <img src="https://img.shields.io/badge/SOC%20L2-00FF00?style=for-the-badge&logo=tryhackme&logoColor=black" />
 </p>

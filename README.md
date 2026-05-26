@@ -7,9 +7,9 @@
 ### About Me
 
 <p align="center">
+  • CTF Player — TryHackMe<br>
   • Security Analyst — SOC L1 & L2 Certified<br>
   • Low-Level Developer — Rust, C/C++, Lua/LuaU<br>
-  • CTF Player — TryHackMe<br>
   • Interests — Reverse Engineering, Binary Exploitation, Malware Analysis
 </p>
 
@@ -39,10 +39,11 @@
 
 ### TryHackMe
 
-<a href="https://tryhackme.com/p/snepog4d">
-  <img src="https://img.shields.io/badge/TryHackMe-snepog4d-red?style=for-the-badge&logo=tryhackme" />
-</a>
-
+<p align="center">
+  <a href="https://tryhackme.com/p/snepog4d">
+    <img src="https://img.shields.io/badge/TryHackMe-snepog4d-red?style=for-the-badge&logo=tryhackme" />
+  </a>
+</p>
 
 ---
 

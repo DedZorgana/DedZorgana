@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Security+Researcher;Low-Level+Enthusiast;Rust+%2B+C%2F%2B%2B+Developer;SOC+L1+%7C+L2+Certified" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+whoami
+
+text
 
 - 🔐 **Security Analyst** — SOC L1 & L2 Certified
 - ⚙️ **Low-Level Developer** — Rust, C/C++, Lua/LuaU
@@ -81,3 +91,6 @@ while mission.status ~= "completed" do
     print("🔴 Analyzing: " .. mission.goal)
     mission.progress = mission.progress + 1
 end
+📫 Contact
+<p align="left"> <a href="https://discord.com/users/neverenoughyourlove" target="_blank"> <img src="https://img.shields.io/badge/Discord-neverenoughyourlove-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://tryhackme.com/p/snepog4d" target="_blank"> <img src="https://img.shields.io/badge/TryHackMe-snepog4d-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DedZorgana&color=00FF00&style=flat-square&label=PROFILE+VIEWS" /> </p><p align="center"> <i>“root@DedZorgana:~# find / -name 'flags' -exec cat {} \; 2>/dev/null”</i> </p> ```

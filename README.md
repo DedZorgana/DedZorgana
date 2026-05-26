@@ -65,7 +65,14 @@ end
 ```
 ### Contact
 <a href="https://discord.com/users/neverenoughyourlove"> <img src="https://img.shields.io/badge/Discord-neverenoughyourlove-5865F2?style=for-the-badge&logo=discord" /> </a>
-### Profile Views
+
 ---
-<img src="https://komarev.com/ghpvc/?username=DedZorgana&color=00FF00&style=flat-square" />
-<p align="center"> find / -name "flag" 2>/dev/null </p>
+### Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DedZorgana&color=00FF00&style=flat-square" />
+</p>
+
+<p align="center">
+  find / -name "flag" 2>/dev/null
+</p>

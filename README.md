@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/TryHackMe-snepog4d-red?style=for-the-badge&logo=tryhackme" />
 </a>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/snepog4d.png" />
 
 ---
 

@@ -3,7 +3,6 @@
 </p>
 
 ---
-
 ### About Me
 
 <p align="center">
@@ -14,7 +13,6 @@
 </p>
 
 ---
-
 ### Tech Stack
 
 <p align="center">
@@ -27,7 +25,6 @@
 </p>
 
 ---
-
 ### Certifications
 
 <p align="center">
@@ -36,7 +33,6 @@
 </p>
 
 ---
-
 ### TryHackMe
 
 <p align="center">
@@ -46,7 +42,6 @@
 </p>
 
 ---
-
 ### GitHub Stats
 
 <p align="center">
@@ -54,7 +49,6 @@
 </p>
 
 ---
-
 ### Code
 
 ```lua
@@ -69,7 +63,12 @@ for _, lang in pairs(skills.langs) do
 end
 ```
 ### Contact
-<a href="https://discord.com/users/neverenoughyourlove"> <img src="https://img.shields.io/badge/Discord-neverenoughyourlove-5865F2?style=for-the-badge&logo=discord" /> </a>
+
+<p align="center">
+  <a href="https://discord.com/users/neverenoughyourlove">
+    <img src="https://img.shields.io/badge/Discord-neverenoughyourlove-5865F2?style=for-the-badge&logo=discord" />
+  </a>
+</p>
 
 ---
 ### Profile Views

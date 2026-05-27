@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&height=80&lines=CTF+Player+—+TryHackMe;Security+Analyst+—+CompTIA+%26+eJPT+Certified;Low-Level+Developer+—+Rust%2C+C%2FC%2B%2B%2C+Lua%2FLuaU;Interests+—+Reverse+Engineering%2C+Binary+Exploitation%2C+Malware+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=eJPT+Certified;CompTIA+Security%2B+Certified" alt="Typing SVG" />
 </p>
 
 --- 
@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" /> 
 </p>
+
 ---
 ### TryHackMe
 

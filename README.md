@@ -7,7 +7,7 @@
 
 <p align="center">
   • CTF Player — TryHackMe<br>
-  • Security Analyst — SOC L1 & L2 Certified<br>
+  • Security Analyst — CompTIA & eJPT Certified<br>
   • Low-Level Developer — Rust, C/C++, Lua/LuaU<br>
   • Interests — Reverse Engineering, Binary Exploitation, Malware Analysis
 </p>
@@ -22,14 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" />
-</p>
-
----
-### Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SOC%20L1-00FF00?style=for-the-badge&logo=tryhackme&logoColor=black" />
-  <img src="https://img.shields.io/badge/SOC%20L2-00FF00?style=for-the-badge&logo=tryhackme&logoColor=black" />
 </p>
 
 ---

@@ -1,27 +1,27 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Security+Researcher;Low-Level+Enthusiast;Rust+%2B+C%2F%2B%2B+Developer;SOC+L1+%7C+L2+Certified" alt="Typing SVG" />
-</p>
+<p align="center"> 
+  <img src="https://demolab.com" alt="Typing SVG" /> 
+</p> 
 
----
-### About Me
+--- 
 
-<p align="center">
-  • CTF Player — TryHackMe<br>
-  • Security Analyst — CompTIA & eJPT Certified<br>
-  • Low-Level Developer — Rust, C/C++, Lua/LuaU<br>
-  • Interests — Reverse Engineering, Binary Exploitation, Malware Analysis
-</p>
+### About Me 
+<p align="center"> 
+  • CTF Player — TryHackMe<br> 
+  • Security Analyst — CompTIA & eJPT Certified<br> 
+  • Low-Level Developer — Rust, C/C++, Lua/LuaU<br> 
+  • Interests — Reverse Engineering, Binary Exploitation, Malware Analysis 
+</p> 
 
----
-### Tech Stack
+--- 
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" />
+### Tech Stack 
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" /> 
 </p>
 
 ---

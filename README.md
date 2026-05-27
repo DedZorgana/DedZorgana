@@ -1,6 +1,7 @@
-<p align="center"> 
-  <img src="https://demolab.com" alt="Typing SVG" /> 
-</p> 
+<p align="center">
+  <img src="https://img.shields.io/badge/eJPT-Certified-00B4D8?style=for-the-badge&logo=elearning&logoColor=white" alt="eJPT Certified" />
+  <img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+ Certified" />
+</p>
 
 --- 
 

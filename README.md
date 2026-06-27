@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=eJPT+Certified;CompTIA+Security%2B+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=eJPT;CompTIA+Security%2B" alt="Typing SVG" />
 </p>
 
 --- 

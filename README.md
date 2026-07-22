@@ -63,7 +63,7 @@ local profile = {
   <img src="https://komarev.com/ghpvc/?username=DedZorgana&#x26;color=00FF00&#x26;style=flat-square" alt="Profile Views">
 
 ```
-
-  find / -name "flag" 2>/dev/null
-
+<p align="center">
+  <code>find / -name "flag" 2>/dev/null</code>
+</p>
 ```

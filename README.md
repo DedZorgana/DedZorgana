@@ -1,22 +1,34 @@
-<div align="center">
-  <h1>DedZorgana</h1>
-  
-  <h3>Pentest Engineer & Low-Level Developer</h3>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pentest_Engineer-Active-00B4D8?style=for-the-badge&logo=securityforces&logoColor=white" alt="Pentest Engineer" />
+  <img src="https://img.shields.io/badge/Low--Level_Developer-Active-FF6B00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Low-Level Developer" />
+</p>
+
+--- 
+
+### About Me 
+<p align="center"> 
+  • Pentest Engineer<br> 
+  • Low-Level Developer — C, C++, Rust<br> 
+  • Roblox Luau Scripting Engineer<br> 
+  • Linux Enthusiast — Arch, Kali, CachyOS<br> 
+  • Interests — Binary Exploitation, Reverse Engineering, Systems Security 
+</p> 
+
+--- 
+
+### Tech Stack 
+<p align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" /> 
+</p>
 
 ---
 
-### Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Luau"/>
-</p>
-
-### Operating Systems
+### Linux Distros
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
@@ -26,10 +38,32 @@
 
 ---
 
-### Focus Areas
+### GitHub Stats
 
-- Penetration Testing  
-- Binary Exploitation  
-- Reverse Engineering  
-- Low-Level Development  
-- Roblox Luau Scripting & Engineering
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DedZorgana&theme=dark&background=0A0A0A&ring=00FF00&fire=00FF00" />
+</p>
+
+---
+
+### Code
+
+```lua
+local profile = {
+    name = "DedZorgana",
+    role = "Pentest Engineer",
+    langs = {"C", "C++", "Rust", "Lua", "Luau"},
+    os = {"Arch", "Kali", "CachyOS"},
+    status = "exploiting"
+}
+```
+### Contact
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-DedZorgana-5865F2?style=for-the-badge&#x26;logo=discord">
+  <img src="https://komarev.com/ghpvc/?username=DedZorgana&#x26;color=00FF00&#x26;style=flat-square" alt="Profile Views">
+
+
+  find / -name "flag" 2>/dev/null
+
+```
+</p>

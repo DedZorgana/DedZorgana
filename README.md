@@ -66,4 +66,4 @@ local profile = {
 <p align="center">
   <code>find / -name "flag" 2>/dev/null</code>
 </p>
-```
+

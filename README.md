@@ -58,9 +58,12 @@ local profile = {
 }
 ```
 ### Contact
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-DedZorgana-5865F2?style=for-the-badge&#x26;logo=discord">
-  <img src="https://komarev.com/ghpvc/?username=DedZorgana&#x26;color=00FF00&#x26;style=flat-square" alt="Profile Views">
+  <a href="https://discord.com/users/neverenoughyourlove">
+    <img src="https://img.shields.io/badge/Discord-neverenoughyourlove-5865F2?style=for-the-badge&logo=discord" />
+  </a>
+</p>
 
 
 <p align="center">

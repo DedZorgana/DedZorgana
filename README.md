@@ -1,74 +1,40 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=eJPT;CompTIA+Security%2B" alt="Typing SVG" />
-</p>
+<div align="center">
+  <h1>DedZorgana</h1>
+  
+  <h3>Pentest Engineer & Low-Level Developer</h3>
 
---- 
-
-### About Me 
-<p align="center"> 
-  • CTF Player — TryHackMe<br> 
-  • Security Analyst — CompTIA & eJPT Certified<br> 
-  • Low-Level Developer — Rust, C/C++, Lua/LuaU<br> 
-  • Interests — Reverse Engineering, Binary Exploitation, Malware Analysis 
-</p> 
-
---- 
-
-### Tech Stack 
-<p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" /> 
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  </p>
+</div>
 
 ---
-### TryHackMe
 
-<p align="center">
-  <a href="https://tryhackme.com/p/snepog4d">
-    <img src="https://img.shields.io/badge/TryHackMe-snepog4d-red?style=for-the-badge&logo=tryhackme" />
-  </a>
-</p>
+### Tech Stack
 
----
-### GitHub Stats
+**Languages**  
+`C` • `C++` • `Rust` • `Lua` • `Luau`
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DedZorgana&theme=dark&background=0A0A0A&ring=00FF00&fire=00FF00" />
-</p>
+**Specialization**
+- Penetration Testing
+- Binary Exploitation
+- Reverse Engineering
+- Low-Level Development
+- Roblox Luau Scripting & Engineering
 
----
-### Code
+### Linux Environment
 
-```lua
-local skills = {
-    langs = {"Rust", "C", "C++", "Lua", "LuaU"},
-    certs = {"SOC L1", "SOC L2"},
-    status = "hacking"
-}
-
-for _, lang in pairs(skills.langs) do
-    print("Exploiting with " .. lang)
-end
-```
-### Contact
-
-<p align="center">
-  <a href="https://discord.com/users/neverenoughyourlove">
-    <img src="https://img.shields.io/badge/Discord-neverenoughyourlove-5865F2?style=for-the-badge&logo=discord" />
-  </a>
-</p>
+**Daily Driver:** Arch Linux • CachyOS  
+**Pentesting:** Kali Linux
 
 ---
-### Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DedZorgana&color=00FF00&style=flat-square" />
-</p>
-
-<p align="center">
-  find / -name "flag" 2>/dev/null
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch"/>
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=linux&logoColor=white" alt="CachyOS"/>
+</div>

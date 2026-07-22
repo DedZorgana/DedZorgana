@@ -2,39 +2,34 @@
   <h1>DedZorgana</h1>
   
   <h3>Pentest Engineer & Low-Level Developer</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  </p>
 </div>
 
 ---
 
-### Tech Stack
+### Languages
 
-**Languages**  
-`C` • `C++` • `Rust` • `Lua` • `Luau`
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Luau"/>
+</p>
 
-**Specialization**
-- Penetration Testing
-- Binary Exploitation
-- Reverse Engineering
-- Low-Level Development
-- Roblox Luau Scripting & Engineering
+### Operating Systems
 
-### Linux Environment
-
-**Daily Driver:** Arch Linux • CachyOS  
-**Pentesting:** Kali Linux
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch"/>
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/CachyOS-000000?style=for-the-badge&logo=linux&logoColor=white" alt="CachyOS"/>
-</div>
+</p>
+
+---
+
+### Focus Areas
+
+- Penetration Testing  
+- Binary Exploitation  
+- Reverse Engineering  
+- Low-Level Development  
+- Roblox Luau Scripting & Engineering

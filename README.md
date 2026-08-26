@@ -1,7 +1,7 @@
 <!-- Animated header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:FF6B00&height=220&section=header&text=DedZorgana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:FF6B00&height=220&section=header&text=slxzerxs&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <!-- Typing animation -->
@@ -62,7 +62,7 @@
 
 ```lua
 local profile = {
-    name = "DedZorgana",
+    name = "slxzerxs",
 
     roles = {
         "Pentest Engineer",

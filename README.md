@@ -1,6 +1,13 @@
+<!-- Animated header -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Pentest_Engineer-Active-00B4D8?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Pentest Engineer" />
-  <img src="https://img.shields.io/badge/Roblox_Developer-Active-FF6B00?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:FF6B00&height=220&section=header&text=DedZorgana&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<!-- Typing animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Pentest+Engineer;Roblox+Luau+Developer;Reverse+Engineering;Binary+Exploitation;Game+Security+Research" />
 </p>
 
 ---
@@ -8,12 +15,12 @@
 ### About Me
 
 <p align="center">
-  • Pentest Engineer<br>
-  • Penetration Testing & Security Research<br>
-  • Reverse Engineering<br>
-  • Binary Exploitation<br>
-  • Roblox Luau Developer<br>
-  • Roblox Game & Security Research
+  <b>Pentest Engineer</b> • <b>Roblox Developer</b>
+</p>
+
+<p align="center">
+  Penetration Testing • Reverse Engineering • Binary Exploitation<br>
+  Roblox Security • Luau Scripting • Game Research
 </p>
 
 ---
@@ -38,7 +45,7 @@
 </p>
 
 <p align="center">
-  Roblox scripting, automation, game research and security-focused Luau development.
+  Building Roblox scripts, tools and security-focused Luau projects.
 </p>
 
 ---
@@ -46,31 +53,8 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,lua,bash,linux,git,github&perline=9" />
 </p>
-
----
-
-### Focus
-
-```text
-┌──────────────────────────────────────────┐
-│              CURRENT FOCUS               │
-├──────────────────────────────────────────┤
-│                                          │
-│  [01] Penetration Testing                │
-│  [02] Reverse Engineering                │
-│  [03] Binary Exploitation                │
-│  [04] Roblox / Luau                      │
-│                                          │
-│                                          │
-└──────────────────────────────────────────┘
-```
 
 ---
 
@@ -105,6 +89,18 @@ local profile = {
     status = "researching"
 }
 ```
+
+---
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DedZorgana/DedZorgana/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DedZorgana/DedZorgana/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/DedZorgana/DedZorgana/output/github-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
